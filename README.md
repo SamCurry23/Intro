@@ -1,2 +1,4 @@
-# Intro
-Introductory repository
+# Sam Curry
+
+Currently studying Computer Science at the University of Hull
+
